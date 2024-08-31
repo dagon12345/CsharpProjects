@@ -27,3 +27,4 @@ C:\Users\lauespina\Documents\GitHub\CsharpProjects\TestProject\obj\Debug\net7.0\
 C:\Users\lauespina\Documents\GitHub\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
 C:\Users\lauespina\Documents\GitHub\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
 C:\Users\lauespina\Documents\GitHub\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
+C:\Users\LancePC\Documents\GitHub\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.sourcelink.json
